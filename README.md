@@ -1,6 +1,10 @@
 
 <H5>
+  <BR>
+  <P>
 http://localhost/api/api/public_html/10/BRL/USD/4.50
+    <BR>
+  <P>
 <BR>
   <P>
 http://localhost/api/api/public_html/10/USD/BRL/1.00
