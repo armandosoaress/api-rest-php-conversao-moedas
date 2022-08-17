@@ -1,5 +1,6 @@
-
+<H2>ECEMPLOS DE </H2>
 <H5>
+  
   <BR>
   <P>
 http://localhost/api/api/public_html/10/BRL/USD/4.50
