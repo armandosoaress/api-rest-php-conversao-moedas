@@ -1,4 +1,4 @@
-<H2>ECEMPLOS DE </H2>
+<H2>EXEMPLOS DE ENDPOINT </H2>
 <H5>
   
   <BR>
